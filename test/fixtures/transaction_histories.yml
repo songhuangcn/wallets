@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+deposit:
+  user: one
+  kind: deposit
+  money: 9.99
+
+withdraw:
+  user: one
+  kind: withdraw
+  money: 9.99
+
+transfer:
+  user: one
+  kind: transfer
+  money: 9.99
